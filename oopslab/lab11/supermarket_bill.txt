@@ -1,0 +1,8 @@
+Items purchased by: NIT Srinagar
+Item                Price     Quantity  Total          
+-------------------------------------------------
+Note Book           50        5         250            
+Pen (5 No.)         7         25        175            
+A4 Ream             350       10        3500           
+-------------------------------------------------
+                                                Total: 3925
